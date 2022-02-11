@@ -1,2 +1,23 @@
 Hakan Muluk - 22102512 - https://github.com/hakanmuluk
 Fifa 22
+🐙  Welcome to the GitKraken CLI!
+cd into a directory being tracked by Git and type gk graph to see what GitKraken can do
+hakanmuluk@Hakan-MacBook-Pro  % git log
+commit 07e6049bc15219af4d3bec8fce9e0b8aaceb053b (HEAD -> new_information, origin/new_information)
+Author: Hakan Muluk <hakan.muluk@ug.bilkent.edu.tr>
+Date:   Fri Feb 11 11:56:55 2022 +0300
+
+    Video game added
+
+commit 6ccbdc7f562b7fbb004ad8650dea2f3257e72099 (main)
+Author: Hakan Muluk <hakan.muluk@ug.bilkent.edu.tr>
+Date:   Fri Feb 11 11:53:37 2022 +0300
+
+    Name_of_the_student updated info.txt
+
+commit 516e761d73a18a476737ecb596616e6cb5d4736b
+Author: hakanmuluk <91740172+hakanmuluk@users.noreply.github.com>
+Date:   Fri Feb 11 11:51:41 2022 +0300
+
+    Create README.md
+hakanmuluk@Hakan-MacBook-Pro  % 
